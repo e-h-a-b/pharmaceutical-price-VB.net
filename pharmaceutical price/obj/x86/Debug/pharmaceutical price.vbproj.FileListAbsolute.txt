@@ -1,0 +1,12 @@
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\لادوية\bin\Debug\لادوية.exe
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\لادوية\bin\Debug\لادوية.pdb
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\لادوية\bin\Debug\لادوية.xml
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\لادوية\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\لادوية\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\لادوية\obj\x86\Debug\pharmaceutical price.vbproj.GenerateResource.Cache
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\لادوية\obj\x86\Debug\لادوية.exe
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\لادوية\obj\x86\Debug\لادوية.xml
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\لادوية\obj\x86\Debug\لادوية.pdb
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\pharmaceutical price\obj\x86\Debug\لادوية.exe
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\pharmaceutical price\obj\x86\Debug\لادوية.xml
+D:\stop wifi\استطلاع راي\احصائيات\لادوية\pharmaceutical price\obj\x86\Debug\لادوية.pdb
